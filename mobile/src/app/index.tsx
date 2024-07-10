@@ -30,7 +30,6 @@ export default function Index(){
                 <Button>
                     <Button.Title>Alterar local/data</Button.Title>
                 </Button>
-
             </View>
         </View>
     </View>
